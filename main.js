@@ -1,3 +1,8 @@
+/*
+Name: Surakshya Pokharel
+Date: 8/2/2024
+Description: JavaScript file to bounce ball
+
 // setup canvas
 
 const canvas = document.querySelector("canvas");
