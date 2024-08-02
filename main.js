@@ -1,6 +1,7 @@
 /*
-Name: Surakshya Pokharel
+Name: Surakshya Pokharel, 100951538
 Date: 8/2/2024
+File: Main java
 Description: JavaScript file to bounce ball.
 */
 
